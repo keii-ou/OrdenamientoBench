@@ -1,0 +1,10 @@
+{
+  "tamanos": [10000, 50000, 100000],
+  "semilla": 2026,
+  "repeticiones": 1,
+  "tamanoBloque": 1000,
+  "tamanoCalentamiento": 1000,
+  "valorMaximo": 1000000,
+  "anchoImagen": 1200,
+  "altoImagen": 700
+}
